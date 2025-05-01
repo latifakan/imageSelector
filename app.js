@@ -32,13 +32,13 @@ function reset() {
 }
 
 let imgCollection = [
-    "/natureImg/img1.jpg",
-    "/natureImg/img2.jpg",
-    "/natureImg/img3.jpg",
-    "/natureImg/img4.jpg",
-    "/natureImg/img5.jpg",
-    "/natureImg/img6.jpg",
-    "/natureImg/img7.jpg"
+    "/Projects/imageSelector/natureImg/img1.jpg",
+    "/Projects/imageSelector/natureImg/img2.jpg",
+    "/Projects/imageSelector/natureImg/img3.jpg",
+    "/Projects/imageSelector/natureImg/img4.jpg",
+    "/Projects/imageSelector/natureImg/img5.jpg",
+    "/Projects/imageSelector/natureImg/img6.jpg",
+    "/Projects/imageSelector/natureImg/img7.jpg"
 ];
 
 const btnBack = document.querySelector("#back")
